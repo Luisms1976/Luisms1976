@@ -1,5 +1,21 @@
-<pre>
-```java
-int variable = 42;
-```
-</pre>
+¡Hola mundo! Soy Luis un apasionado aprendiz de Android Developer.
+Bienvenido a mi rincón en el mundo del desarrollo. Android! Aunque no tengo una gran experiencia(todavía), estou aquí para compartir mi emocionante viaje mientras navego por el maravilloso universo de Android development.
+
+Habilidades conocidas:
+- Diseño de interfaces con XML y ConstraintLayout
+- Manejo de Activities e Intents
+- Consumo de APIs con Retrofit
+- Persistencia de datos con SQLite
+- Manejo de RecyclerViews y Adapters
+- Experiencia con patrones de arquitectura coomo MVC y MVVM
+
+Lo que estoy aprendiendo:
+- Jetpack Compose para crear interfaces más elegantes
+- Pruebas unitarias y de integración con JUnit y Espresso
+- Inyección de dependencias con Dagger
+- Kotlin coroutines para un manejo asincrónico más eficiente
+
+Mis metas:
+- Contribuir a proyectos de código abierto
+- Mejorar constantemente mis habilidades
+- ¡Convertirme en un desarrollador Android!
